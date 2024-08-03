@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="move">Move</string>
+    <string name="opacity">Opacity</string>
+    <string name="scale">Scale</string>
+    <string name="rotation">Rotation</string>
+    <string name="animation">Animation</string>
+</resources>
